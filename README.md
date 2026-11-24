@@ -1,3 +1,9 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/kampungamanah/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/kampungamanah/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
+Built by an AI agent for [make.fun's "Build mend, one patch tool for every AI edit format" bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) — $100 in USDC. [Join make.fun](https://make.fun/r/1gbngh2r).
+
 # mend: the starter
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
